@@ -93,19 +93,19 @@ Item {
 
                 ListElement {
                     name: "Lock"
-                    value: ":/nebula/resources/animations/lock_animation.json"
+                    value: "qrc:/nebula/resources/animations/lock_animation.json"
                 }
                 ListElement {
                     name: "Globe"
-                    value: ":/nebula/resources/animations/globe_animation.json"
+                    value: "qrc:/nebula/resources/animations/globe_animation.json"
                 }
                 ListElement {
                     name: "VPN Active"
-                    value: ":/nebula/resources/animations/vpnactive_animation.json"
+                    value: "qrc:/nebula/resources/animations/vpnactive_animation.json"
                 }
                 ListElement {
                     name: "Speedometer"
-                    value: ":/nebula/resources/animations/speedometer_animation.json"
+                    value: "qrc:/nebula/resources/animations/speedometer_animation.json"
                 }
             }
 

@@ -19,5 +19,6 @@ RESOURCES += $$PWD/lib/lottie.qrc
 
 CONFIG += qmltypes
 
+QML_IMPORT_PATH += $$PWD/lib
 QML_IMPORT_NAME = vpn.mozilla.lottie
 QML_IMPORT_MAJOR_VERSION = 1
